@@ -1,6 +1,7 @@
 # IOT-Projekt
 
 - Programski kod projekta motoriziranih dvoriših vrata upravljanih sa mobilnom aplikacijom:
+
 ```
 #include "BluetoothSerial.h"
 
